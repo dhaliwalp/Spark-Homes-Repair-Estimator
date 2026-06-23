@@ -26,5 +26,8 @@ This turns the estimator into a lightweight field operations assistant, not just
 - Add optional serial number recognition from photos.
 - Add a deal analyzer that compares estimate cost against ARV and purchase price.
 
+## Live Demo
+[Open the app on GitHub Pages](https://dhaliwalp.github.io/Spark-Homes-Repair-Estimator/spark-homes-estimator.html)
+
 ## AI role
 AI assisted in reading the reference app structure and generating the PWA and helper code scaffolding. All app logic and integration were adapted to ensure offline support, project persistence, and export capabilities.
