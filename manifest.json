@@ -1,0 +1,16 @@
+{
+  "name": "Spark Homes Repair Estimator",
+  "short_name": "Repair Estimator",
+  "description": "Offline-ready mobile repair estimator for house-flipping walkthroughs.",
+  "start_url": "./spark-homes-estimator.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "./spark-logo.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
