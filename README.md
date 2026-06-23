@@ -23,6 +23,11 @@ This workspace contains a completed take-home assignment for the Spark Homes dev
    - `python -m http.server 8000`
 3. Open `http://localhost:8000/spark-homes-estimator.html`
 
+## 🚀 Live Demo
+**[Open the app on GitHub Pages](https://dhaliwalp.github.io/Spark-Homes-Repair-Estimator/spark-homes-estimator.html)**
+
+Test on mobile, install to home screen, and use offline!
+
 ## Key features implemented
 - Multi-project management with localStorage persistence
 - Room-based bathroom instances and dynamic room renaming
